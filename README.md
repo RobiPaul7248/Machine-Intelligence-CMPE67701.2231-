@@ -1,4 +1,4 @@
-# Machine-Intelligence-Project-
+# Machine-Intelligence-Project
 
 The project was done by maintaining the following steps:
 
