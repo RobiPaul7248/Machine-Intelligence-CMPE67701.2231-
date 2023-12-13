@@ -7,3 +7,13 @@ The dataset originally (__[Train.csv](https://drive.google.com/file/d/16DKMe3Bq2
 
 ## Em Analysis:
 Initially the dataset had few catgorical features which we had to map. After the mapping the dataset was (__[mapped.csv](https://drive.google.com/file/d/1pW2YsZ8erM31H2DjDDrY1vOULVj0hf1Y/view?usp=sharing)__) and the list of elements that are mapped into for each column are (__[here](https://drive.google.com/file/d/1UtQ-f3LI43lNayf8-G3WvgzMznFy6tYb/view?usp=sharing)__). At the end of our EM analysis the dataset is (__[With_EM.csv](https://drive.google.com/file/d/1HZw9nimRv41mcN5RBatclaeUss-DfHka/view?usp=sharing)__).
+
+## Feature Selection (Recursive Feature Elimination):
+This gave us rank of important features that we selected. At the end of this stage we selected 25 most important Features. The updated dataset is (__[Final_dataset.csv](https://drive.google.com/file/d/120s3ikdmhucbZvlA7qxqEECew_NYG7m1/view?usp=sharing)__). 
+
+## Model Training:
+We considered 4 models for this project, which are,
+* Logistic Regression
+* Lightgbm
+* Random forest
+* Neural Network(NN)
