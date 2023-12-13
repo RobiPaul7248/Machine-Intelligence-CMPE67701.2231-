@@ -1,4 +1,4 @@
-# Machine-Intelligence-CMPE67701.2231-
+# Machine-Intelligence-Project-
 
 The project was done by maintaining the following steps:
 
