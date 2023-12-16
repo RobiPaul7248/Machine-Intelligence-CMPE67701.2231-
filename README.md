@@ -14,6 +14,6 @@ This gave us rank of important features that we selected. At the end of this sta
 ## Model Training:
 We considered 4 models for this project, which are,
 * Logistic Regression
-* Lightgbm
-* Random forest
+* LightGBM
+* Random Forest
 * Neural Network(NN)
