@@ -1,1 +1,1 @@
-the folder contains the images utlized for this report
+This folder contains the images utilized for this report
