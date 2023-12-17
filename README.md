@@ -1,5 +1,9 @@
 # Machine-Intelligence-Project
 
+The project is a part of our course work (Machine-Intelligence-CMPE67701) offered by __[Prof. Cory Merkel](https://www.rit.edu/engineering/directory/cemeec-cory-merkel)__ . The projects was done by,
+* Robi Paul
+* Oluyemi Amujo
+
 The project was done by maintaining the following steps:
 
 ## Preprocessing Section: 
